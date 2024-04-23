@@ -14,4 +14,4 @@ Refactored the CSS selectors in style-sheet by:
 
 Site https://github.com/ChaaseLee/Code-Refactor.git
 
-(.criteria/assets/01-html-css-git-homework-demo.png)
+".criteria/assets/01-html-css-git-homework-demo.png"
