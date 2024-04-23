@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* These selectors (below) affect the styling of the header and children elements */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,17 +43,16 @@ nav a {
     color: #ffffff;
     text-decoration: none;
 }
+/* These selectors (above) affect the styling of the 'header' and its contents */
 
-p {
-    font-size: 16px;
-}
-
+/* This selector affects the background image*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
 }
 
+/* These Selector (below) affects the syling of the 'main' element */
 .content {
     width: 75%;
     display: inline-block;
@@ -89,7 +89,10 @@ p {
 .topic p {
     font-size: 16px;
 }
+/* These selectors (above) affects the styling of the 'main' element */
 
+
+/* These selectors (below) affect the syling of the 'aside' elements and its contents */
 .benefits {
     margin-right: 20px;
     padding: 20px;
